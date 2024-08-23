@@ -1,14 +1,8 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
+title: "Banking Liberalization and Analyst Forecast Accuracy"
+collection: working paper
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2023-06-01
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+We study how bank liberalization affects analyst forecast accuracy using two interest rate deregulations in China, the removal of the cap on bank lending rates in 2004 and the removal of the floor in 2013, as quasi-natural experiments. Our results show that the analyst forecast accuracy for high-risk firms decreases significantly after removing the lending rate cap. In contrast, analyst forecast accuracy for low-risk firms increases significantly after removing the lending rate floor. Moreover, interest rate liberalization affects forecast accuracy through operational risk and information asymmetry channels. Furthermore, the impact is concentrated in firms with lower-than-expected performance, greater reliance on bank loans, and lower audit quality. Our results suggest that the impact of interest rate liberalization policies is transmitted to analyst forecasts.
