@@ -1,5 +1,6 @@
 ---
 title: "Banking Liberalization and Analyst Forecast Accuracy"
+excerpt: 'with Kai Wu and Yi Liu'
 collection: publications
 category: manuscripts
 venue: 'Working Paper'
