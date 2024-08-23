@@ -21,7 +21,7 @@ repository               : "linghaozhang310/linghaozhang310.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "LinghaoZhang.png"
   name             : "Linghao Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
