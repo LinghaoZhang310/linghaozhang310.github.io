@@ -1,5 +1,6 @@
 ---
 title: "Investor Sentiment Index Based on Prospect Theory: Evidence from China"
+excerpt: 'with Shwayyan Hu and Dongli Han'
 collection: publications
 category: manuscripts
 venue: 'Working Paper'
