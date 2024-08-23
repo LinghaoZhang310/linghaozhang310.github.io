@@ -1,6 +1,7 @@
 ---
 title: "Banking Liberalization and Analyst Forecast Accuracy"
-excerpt: 'with Kai Wu and Yi Liu'
+excerpt: 'with Kai Wu and Yi Liu
+Presented at Chinese Finance Annual Meeting 2023, National Forum of 30 Graduate Students in Applied Economics 2023, JinShi Scholars Forum 2023, Youth Forum of Chinese Finance Academic Summit 2023'
 collection: publications
 category: manuscripts
 venue: 'Working Paper'
