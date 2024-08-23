@@ -20,5 +20,4 @@ Scholarships & Awards
 ======
 -   Central University of Finance and Economics Comprehensive Development Scholarship (four times)
 -   Central University of Finance and Economics Social Practice Scholarship
--   Provincial Second Prize of National University Student Mathematical Modeling Competition
 -   Champion of Central University of Finance and Economics Debate Competition
