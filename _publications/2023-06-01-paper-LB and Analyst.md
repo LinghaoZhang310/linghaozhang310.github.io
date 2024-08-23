@@ -1,7 +1,7 @@
 ---
 title: "Banking Liberalization and Analyst Forecast Accuracy"
 collection: working paper
-category: manuscripts
+category: working paper
 venue: 'Working Paper'
 date: 2023-06-01
 ---
