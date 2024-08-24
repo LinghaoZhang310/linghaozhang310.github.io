@@ -9,7 +9,8 @@ redirect_from:
 
 Linghao Zhang is a Master student in Finance at the School of Finance, Nankai University, and received a bachelor's degree in Finance from the School of Finance, Central University of Finance and Economics.
 
-My research focuses on quantitative research in corporate finance, mainly in the fields of corporate innovation, government relations, corporate investment and financing, ESG, etc. My current research projects are on biodiversity finance, political and corporate interactions, and the impact of cutting-edge technology.
+My research focuses on quantitative research in corporate finance, mainly in the fields of corporate innovation, government relations, corporate investment and financing, ESG, etc. 
+My current research projects are on biodiversity finance, political and corporate interactions, and the impact of cutting-edge technology.
 
 Education
 ======
